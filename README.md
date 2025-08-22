@@ -41,3 +41,16 @@ Este juego permite jugar a **Piedra, Papel o Tijera** contra la máquina. Está 
 GitHub: [FlaBuilderDev](https://github.com/FlaBuilderDev)
 
 ---
+
+## 🧪 Estado del proyecto
+
+✅ Finalizado – No se esperan más cambios.
+
+---
+
+## 🔮 Posibles mejoras
+
+- Añadir sonidos o animaciones.
+- Guardar puntuación entre sesiones con localStorage.
+
+---
